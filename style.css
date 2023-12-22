@@ -50,6 +50,9 @@ nav ul li .dropdown-item:hover {
 .mt--1 {
     margin-top: -8px;
 }
+
+
+
 /* boutons "radio" du slider */
 .circle {
     height: 10px !important;
@@ -61,6 +64,9 @@ nav ul li .dropdown-item:hover {
 .circle.active{
     background-color: white!important;
 }
+
+
+
 
 /* informations presentes sur le slider */
 .infos {
@@ -142,7 +148,9 @@ nav ul li .dropdown-item:hover {
     padding: 20px!important;
 }
 
-
+.mymap{
+    filter: grayscale(100%) invert(100%);
+}
 
 /**************************************** Le footer *************************************************/
 
